@@ -6,7 +6,7 @@
 
 A modern, customizable, and free alternative to Linktree with a sleek dark theme and 3D animated background. Perfect for developers, creators, and businesses who want to share their social links in style.
 
-[Live Demo](https://ddosnotification.github.io) | [Create Your Own](#-quick-start)
+[Live Demo](https://ddosnotification.github.io/links-portfolio) | [Create Your Own](#-quick-start)
 
 ![Preview](/preview/screenshot.png)
 
